@@ -1,7 +1,0 @@
-Para RHEL_8_64 (Red Hat 8): Duoc.2021
-
-------------------------------------------------------------
-
-Para RHEL8_Solo_Consola:
-Login: root
-Password: redhat
